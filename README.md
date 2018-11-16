@@ -11,3 +11,7 @@ Homomorphic encryption:-
 Homomorphic encryption is a form of encryption that allows computation on ciphertexts, generating an encrypted result which, when decrypted, matches the result of the operations as if they had been performed on the plaintext. The purpose of homomorphic encryption is to allow computation on encrypted data.
 
  Note:- ***The code is in project.c and documentation is in projectdocu.docx
+
+Caution:- I created this code for only 6 voters and voter id's from 1 to 6. so if you want to increase voters make voter array in main and also darr in cast vote function to your required no .of voters. At for loops also change 6 to your no. of voters.
+
+Good luck!!
