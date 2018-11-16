@@ -9,3 +9,5 @@ For those who dont know homomorphic encrytpion you can understand from below def
 Homomorphic encryption:-
 
 Homomorphic encryption is a form of encryption that allows computation on ciphertexts, generating an encrypted result which, when decrypted, matches the result of the operations as if they had been performed on the plaintext. The purpose of homomorphic encryption is to allow computation on encrypted data.
+
+ Note:- ***The code is in project.c and documentation is in projectdocu.docx
