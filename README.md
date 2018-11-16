@@ -14,4 +14,6 @@ Homomorphic encryption is a form of encryption that allows computation on cipher
 
 Caution:- I created this code for only 6 voters and voter id's from 1 to 6. so if you want to increase voters make voter array in main and also darr in cast vote function to your required no .of voters. At for loops also change 6 to your no. of voters.
 
+Password:- results(all small letters)
+
 Good luck!!
